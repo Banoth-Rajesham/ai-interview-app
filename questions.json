@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Can you walk me through your previous experience relevant to this role?",
+    "topic": "Experience"
+  },
+  {
+    "text": "What do you consider your greatest professional achievement and why?",
+    "topic": "Accomplishments"
+  },
+  {
+    "text": "Describe a challenging situation you faced at work and how you handled it.",
+    "topic": "Problem-Solving"
+  },
+  {
+    "text": "Where do you see yourself in five years, and how does this role fit into your career goals?",
+    "topic": "Career Goals"
+  },
+  {
+    "text": "Why are you interested in working for our company?",
+    "topic": "Motivation"
+  }
+]
